@@ -3,15 +3,16 @@
   padding:0px;
 }
 
-#octocat {
+ul {
   display: block;
   width:384px;
   margin: 50px auto;
+  font: "Open Sans", Tahoma, Helvetica;
 }
 
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
